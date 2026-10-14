@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\Atividae12.csproj": {}
+    "C:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\Atividae12.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\Atividae12.csproj": {
+    "C:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\Atividae12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\Atividae12.csproj",
+        "projectUniqueName": "C:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\Atividae12.csproj",
         "projectName": "Atividae12",
-        "projectPath": "c:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\Atividae12.csproj",
+        "projectPath": "C:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\Atividae12.csproj",
         "packagesPath": "C:\\Users\\kauan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\obj\\",
+        "outputPath": "C:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kauan\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividae12")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14cf4482e2cc490e84ea090bc7adb9c7e25d9b9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb98f6b397f31da6b7a7039d55033bdf165cb5d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividae12")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividae12")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

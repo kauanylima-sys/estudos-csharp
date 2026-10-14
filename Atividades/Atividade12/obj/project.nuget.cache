@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bRjQm83RT9s=",
+  "dgSpecHash": "TezcrS1cO8Q=",
   "success": true,
-  "projectFilePath": "c:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\Atividae12.csproj",
+  "projectFilePath": "C:\\Users\\kauan\\Documentos\\estudos\\csharp\\Atividades\\Atividade12\\Atividae12.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kauan\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.18\\microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
     "C:\\Users\\kauan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.18\\microsoft.windowsdesktop.app.ref.9.0.18.nupkg.sha512",
